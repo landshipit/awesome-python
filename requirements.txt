@@ -1,2 +1,3 @@
 mkdocs==1.0.4
 mkdocs-material==4.0.2
+* [vidgear](https://github.com/abhiTronix/vidgear) - Most Powerful multi-threaded Video Processing framework.
